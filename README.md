@@ -32,6 +32,13 @@ server
 python3 app.py
 ```
 command and control example
+
+
+execute binary in linux
+![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/97fd1df1-cffb-4dea-aa41-1a604ba85bf3)
+
+
+
 ![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/8568ba11-8a0d-4901-8b86-0c4d3766958e)
 
 ![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/2bb276a6-e90c-45b5-a986-176ac86a5e62)
