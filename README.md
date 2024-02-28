@@ -65,3 +65,5 @@ scan in VT (linux agent)
 ![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/39657a79-4731-454b-b33b-1276bcf9188a)
 scan in VT (windows agent)
 ![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/86d82582-5bec-41fd-bcb0-394689c0655b)
+
+![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/96cdf177-19d5-4870-8ad2-9f55c774f6df)
