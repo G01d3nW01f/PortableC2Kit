@@ -49,6 +49,13 @@ execute binary in linux
 ![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/6763b525-e626-4ab2-b493-bd8b065b2215)
 
 
+
+payload enc
+![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/84c1638c-1337-45c2-8f6d-1fc03c01f0f9)
+
+![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/68de50f3-15fa-4e2b-ae49-78d04e761e19)
+
+
 binary hash example
 
 ![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/08688215-9f37-4a00-906a-0d64ddd7bd82)
