@@ -45,7 +45,9 @@ execute binary in linux
 ![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/7a6d4efc-a325-484f-b6cb-01ab3e09ae30)
 
 
-![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/12438c50-a195-48a3-8166-c0defb870f11)
+![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/a4653f9d-0cae-4fc8-aa4b-20b94e79c771)
+![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/6763b525-e626-4ab2-b493-bd8b065b2215)
+
 
 binary hash example
 ![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/6f31affb-0856-40dc-97ff-8258e498a2f4)
