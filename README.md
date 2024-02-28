@@ -10,7 +10,7 @@ usage:
 agent compile for windows:
 
 ```
-go build agent4win.go
+env GOOS=windows GOARCH=amd64 go build -o agent4win.exe agent4win.go
 ```
 
 agent compile for linux:
