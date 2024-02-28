@@ -50,8 +50,9 @@ execute binary in linux
 
 
 binary hash example
-![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/6f31affb-0856-40dc-97ff-8258e498a2f4)
-![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/d5651b96-1fb7-40ab-b1c7-ae1e28087adb)
+
+![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/08688215-9f37-4a00-906a-0d64ddd7bd82)
+
 
 scan in VT (linux agent)
 ![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/39657a79-4731-454b-b33b-1276bcf9188a)
