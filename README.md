@@ -10,11 +10,16 @@ require python module:  Flask
 
 usage:
 
-agent compile for windows:
+agent compile for windows( on linux):
 
 ```
 env GOOS=windows GOARCH=amd64 go build -o agent4win.exe agent4win.go
 ```
+agent compile for windows:
+```
+go build agent4win.go
+```
+
 
 agent compile for linux:
 ```
