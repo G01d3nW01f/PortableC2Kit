@@ -68,3 +68,4 @@ scan sample binary in VT (windows agent)
 
 ![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/195ed076-c24e-4b3d-97c2-1736e2b71d85)
 
+![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/22cc0f81-c9d3-4be3-bd61-f8929e9f23d0)
