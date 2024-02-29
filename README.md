@@ -61,9 +61,9 @@ binary hash example
 ![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/08688215-9f37-4a00-906a-0d64ddd7bd82)
 
 
-scan in VT (linux agent)
+scan sample binaryin VT (linux agent)
 ![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/39657a79-4731-454b-b33b-1276bcf9188a)
-scan in VT (windows agent)
+scan sample binary in VT (windows agent)
 ![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/86d82582-5bec-41fd-bcb0-394689c0655b)
 
 ![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/195ed076-c24e-4b3d-97c2-1736e2b71d85)
