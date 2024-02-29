@@ -60,6 +60,8 @@ binary hash example
 
 ![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/08688215-9f37-4a00-906a-0d64ddd7bd82)
 
+sample binary hardcoded local address so maybe low detection level,
+however if put any address that reputetion is not good, then get detection as malicious file
 
 scan sample binaryin VT (linux agent)
 ![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/39657a79-4731-454b-b33b-1276bcf9188a)
