@@ -50,24 +50,3 @@ execute binary in linux
 
 
 
-payload enc
-![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/84c1638c-1337-45c2-8f6d-1fc03c01f0f9)
-
-![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/68de50f3-15fa-4e2b-ae49-78d04e761e19)
-
-
-binary hash example
-
-![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/08688215-9f37-4a00-906a-0d64ddd7bd82)
-
-sample binary hardcoded local address so maybe low detection level,
-however if put any address that reputetion is not good, then get detection as malicious file
-
-scan sample binaryin VT (linux agent)
-![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/39657a79-4731-454b-b33b-1276bcf9188a)
-scan sample binary in VT (windows agent)
-![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/86d82582-5bec-41fd-bcb0-394689c0655b)
-
-![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/195ed076-c24e-4b3d-97c2-1736e2b71d85)
-
-![image](https://github.com/G01d3nW01f/PortableC2Kit/assets/75846902/22cc0f81-c9d3-4be3-bd61-f8929e9f23d0)
